@@ -39,15 +39,15 @@ Windows users may need some additional setup:
 1. Clone this repository:
    ```bash
    git clone https://github.com/aysegulrana/mapreduce-pyspark-lab.git
-   cd pyspark-mapreduce-lab
+   cd mapreduce-pyspark-lab
    ```
 
-2. Run the main lab example:
+2. Run the main lab examples:
    ```bash
-   python pyspark_mapreduce_lab.py
+   python mapreduce-pyspark-lab.ipynb
    ```
 
-The script will generate sample data automatically if it doesn't exist.
+There is a function to generate sample data within the notebook.
 
 ## Lab Structure
 
